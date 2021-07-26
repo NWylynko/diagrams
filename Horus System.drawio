@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-26T01:27:23.305Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="kpzz7xFK9fTRy31rRi_6" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-26T01:33:15.233Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="DR4tQ48TWvEOOEYnaAhQ" version="14.9.0" type="github">
   <diagram id="nPcvH1GQvYh_hTLvzfsL" name="Page-1">
-    <mxGraphModel dx="1002" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="2505" dy="1810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -178,7 +178,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nfuZQFnSO84eK-1PtAOt-327" value="New JWT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nfuZQFnSO84eK-1PtAOt-326" vertex="1" connectable="0">
+        <mxCell id="nfuZQFnSO84eK-1PtAOt-327" value="New JWT If user is online&lt;br&gt;while permissions are updated" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nfuZQFnSO84eK-1PtAOt-326" vertex="1" connectable="0">
           <mxGeometry x="-0.0664" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -375,7 +375,7 @@
         <mxCell id="nfuZQFnSO84eK-1PtAOt-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="nfuZQFnSO84eK-1PtAOt-103" target="nfuZQFnSO84eK-1PtAOt-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nfuZQFnSO84eK-1PtAOt-126" value="Add permission to Users JWT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nfuZQFnSO84eK-1PtAOt-125" vertex="1" connectable="0">
+        <mxCell id="nfuZQFnSO84eK-1PtAOt-126" value="Add permission to Users JWT to create new JWT if user is online" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nfuZQFnSO84eK-1PtAOt-125" vertex="1" connectable="0">
           <mxGeometry x="0.1172" y="-1" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
