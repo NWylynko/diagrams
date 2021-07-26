@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-26T01:25:25.161Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="lZ-P44Tqnjty0403TBCZ" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-26T01:27:23.305Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="kpzz7xFK9fTRy31rRi_6" version="14.9.0" type="github">
   <diagram id="nPcvH1GQvYh_hTLvzfsL" name="Page-1">
     <mxGraphModel dx="1002" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -591,7 +591,7 @@
         <mxCell id="nfuZQFnSO84eK-1PtAOt-206" value="Aggregators" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="250" y="1770" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nfuZQFnSO84eK-1PtAOt-207" value="Store All Required Data (optimistic replication)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="nfuZQFnSO84eK-1PtAOt-207" value="Store All Required Data (optimistic replication W/ Eventual Consistency)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="1770" width="300" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nfuZQFnSO84eK-1PtAOt-208" value="" style="endArrow=none;html=1;exitX=-0.005;exitY=0.084;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="nfuZQFnSO84eK-1PtAOt-204" edge="1">
