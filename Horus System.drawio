@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-29T12:01:27.974Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="gfmCT6moMxPds0nN3EdK" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-29T12:18:36.261Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="Sajc060PRng1q6065bBQ" version="14.9.2" type="github">
   <diagram id="nPcvH1GQvYh_hTLvzfsL" name="Page-1">
-    <mxGraphModel dx="5165" dy="2748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="2066" dy="1099" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -108,8 +108,8 @@
         <mxCell id="nfuZQFnSO84eK-1PtAOt-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nfuZQFnSO84eK-1PtAOt-2" target="nfuZQFnSO84eK-1PtAOt-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="785" y="520" />
-              <mxPoint x="785" y="480" />
+              <mxPoint x="780" y="520" />
+              <mxPoint x="780" y="485" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -131,8 +131,8 @@
         <mxCell id="nfuZQFnSO84eK-1PtAOt-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="nfuZQFnSO84eK-1PtAOt-2" target="nfuZQFnSO84eK-1PtAOt-142" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="779" y="560" />
-              <mxPoint x="779" y="590" />
+              <mxPoint x="780" y="560" />
+              <mxPoint x="780" y="590" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -389,16 +389,16 @@
         <mxCell id="nfuZQFnSO84eK-1PtAOt-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nfuZQFnSO84eK-1PtAOt-118" target="nfuZQFnSO84eK-1PtAOt-128" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="620" y="245" />
-              <mxPoint x="620" y="304" />
+              <mxPoint x="640" y="245" />
+              <mxPoint x="640" y="304" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="nfuZQFnSO84eK-1PtAOt-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="nfuZQFnSO84eK-1PtAOt-118" target="nfuZQFnSO84eK-1PtAOt-133" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="620" y="230" />
-              <mxPoint x="620" y="195" />
+              <mxPoint x="640" y="230" />
+              <mxPoint x="640" y="195" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -712,7 +712,12 @@
           <mxGeometry y="52" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="nfuZQFnSO84eK-1PtAOt-266" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="nfuZQFnSO84eK-1PtAOt-264" target="nfuZQFnSO84eK-1PtAOt-248" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2480" y="794" />
+              <mxPoint x="2480" y="768" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="nfuZQFnSO84eK-1PtAOt-267" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2040" y="960" width="200" height="201" as="geometry" />
@@ -1078,7 +1083,12 @@
           <mxGeometry y="78" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="q3fnCTG3TU0qYGQ_UY1A-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="q3fnCTG3TU0qYGQ_UY1A-17" target="q3fnCTG3TU0qYGQ_UY1A-12" parent="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3500" y="875" />
+              <mxPoint x="3500" y="849" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="q3fnCTG3TU0qYGQ_UY1A-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2840" y="1120.5" width="420" height="239.5" as="geometry" />
@@ -1348,6 +1358,9 @@
         </mxCell>
         <mxCell id="q3fnCTG3TU0qYGQ_UY1A-87" value="User" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2481" y="1700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q3fnCTG3TU0qYGQ_UY1A-100" value="Micro services idea&lt;br&gt;&lt;br&gt;Split up Event consumption from http api&lt;br&gt;&lt;br&gt;This would make the Code simpler, separation of concerns.&lt;br&gt;&lt;br&gt;Both would still produce events as needed.&lt;br&gt;&lt;br&gt;Both would still interface with the database and Cache as needed.&lt;br&gt;&lt;br&gt;Potentially the event consumer could call the api instead of the underlying file stores, but this potentially adds too much chatting and network congestion&lt;br&gt;&lt;br&gt;This has the downside of potentially much more duplication of code between the api and event consumer. &lt;br&gt;&lt;br&gt;This could be considered an anti pattern or bad practice as two services are accessing one database &amp;amp; cache but its the same as having both in one service which is the conventional way of doing things.&lt;br&gt;&lt;br&gt;This allows for even more specific scaling of services as needed to support users, plus the api can be scaled down to 0 while the events consumer will need to remain at least 1 instance alive.&amp;nbsp;&lt;br&gt;&lt;br&gt;This is a similar idea to CQRS but instead of splitting by setters and getters, splitting by means of consumption of requests and events.&lt;br&gt;&lt;br&gt;This two services would still be tightly coupled thou, but I don&#39;t think thats an issue as the alternative is they live in the same service." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="648.5" y="1800" width="410" height="440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
